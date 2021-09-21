@@ -15,7 +15,7 @@ Step 9: Create a pull request (PR)
 Step 10: Merge PR
 Step 11: Get changes on Github back to your computer. Use git pull origin master command to get changes to your computer and match it with your github repo. 
 
-**Webstorm**: WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets. Just like IntelliJ IDEA and other JetBrains IDEs, WebStorm makes your development experience more enjoyable, automating routine work and helping you handle complex tasks with ease.
+* **Webstorm**: WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets. Just like IntelliJ IDEA and other JetBrains IDEs, WebStorm makes your development experience more enjoyable, automating routine work and helping you handle complex tasks with ease.
 
 **Part 2**
 
