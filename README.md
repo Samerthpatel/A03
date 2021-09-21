@@ -30,3 +30,9 @@ git lets you manage your project. It lets you create different branches for your
 * **Pull**: If someone has changed code on a separate branch of a project and wants it to be reviewed to add to the master branch, that someone can put in a pull request. Pull requests ask the repo maintainers to review the commits made, and then, if acceptable, merge the changes upstream. A pull happens when adding the changes to the master branch.
 * **Remote**: A copy of the original branch. When you clone a branch, that new branch is a remote, or clone. Remotes can talk to the origin branch, as well as other remotes for the repository, to make communication between working branches easier.
 * **Repository**: In many ways, you can think of a Git repository as a directory that stores all the files, folders, and content needed for your project. What it actually is, is the object database of the project, storing everything from the files themselves, to the versions of those files, commits, deletions, et cetera.
+
+**Sources** 
+*https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+*https://acloudguru.com/blog/engineering/git-terms-explained#push
+
+
