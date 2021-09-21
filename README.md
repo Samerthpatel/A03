@@ -3,17 +3,17 @@
 **Git and Github Toturial**
 git lets you manage your project. It lets you create different branches for your project when adding new features so your original project won't get messed up. It is also helpful in working with projects as a team as everything is contained in a repo that multiple people can work on. 
 
-Step 1: Install git and create a Github account
-Step 2: Create a local git repository
-Step 3: Add a new file to the repo
-Step 4: Add a file to the staging enviornment
-Step 5: Create a commit
-Step 6: Create a new branch
-Step 7: Create a new repository on Github
-Step 8: Push a branch to Github
-Step 9: Create a pull request (PR)
-Step 10: Merge PR
-Step 11: Get changes on Github back to your computer. Use git pull origin master command to get changes to your computer and match it with your github repo. 
+* Step 1: Install git and create a Github account
+* Step 2: Create a local git repository
+* Step 3: Add a new file to the repo
+* Step 4: Add a file to the staging enviornment
+* Step 5: Create a commit
+* Step 6: Create a new branch
+* Step 7: Create a new repository on Github
+* Step 8: Push a branch to Github
+* Step 9: Create a pull request (PR)
+* Step 10: Merge PR
+* Step 11: Get changes on Github back to your computer. Use git pull origin master command to get changes to your computer and match it with your github repo. 
 
 **Webstorm**: WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets. Just like IntelliJ IDEA and other JetBrains IDEs, WebStorm makes your development experience more enjoyable, automating routine work and helping you handle complex tasks with ease.
 
