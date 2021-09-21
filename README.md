@@ -32,7 +32,7 @@ git lets you manage your project. It lets you create different branches for your
 * **Repository**: In many ways, you can think of a Git repository as a directory that stores all the files, folders, and content needed for your project. What it actually is, is the object database of the project, storing everything from the files themselves, to the versions of those files, commits, deletions, et cetera.
 
 **Sources** 
-*https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-*https://acloudguru.com/blog/engineering/git-terms-explained#push
+* https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+* https://acloudguru.com/blog/engineering/git-terms-explained#push
 
 
